@@ -11,3 +11,5 @@ This project was inspired by
 - 3 220ohms Resistors
 - LCD 16 x 2
 - PCF8574 I2C module
+
+![](Laser People Counter.png)
