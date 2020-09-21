@@ -10,6 +10,6 @@ This project was inspired by
 - 2 LDRs (Light Dependant Resistors)
 - 3 220ohms Resistors
 - LCD 16 x 2
-- PCF8574 I2C module
+- PCF8574 I2C module (optional)
 
-![](Laser People Counter.png)
+[**LiquidCrystal_I2C library**](https://www.arduinolibraries.info/libraries/liquid-crystal-i2-c)
