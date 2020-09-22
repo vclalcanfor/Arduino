@@ -12,3 +12,5 @@ The objective of this project is to avoid agglomerations in Supermarkets, Stores
 - PCF8574 I2C module (optional)
 
 [**LiquidCrystal_I2C library**](https://www.arduinolibraries.info/libraries/liquid-crystal-i2-c)
+
+![TinkerCad Sketch Image](https://github.com/vclalcanfor/Arduino/blob/master/People_Counter/Laser%20People%20Counter.png)
